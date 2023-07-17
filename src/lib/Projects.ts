@@ -12,6 +12,13 @@ const projects = [
 		description:
 			'Project CarnEvil is the ultimate VR Horror carnival game, transporting players to a ghostly realm filled with dread and thrills!',
 		url: 'https://store.steampowered.com/app/2413080/Project_CarnEvil/'
+	},
+	{
+		title: 'K-D Trees in Processing',
+		technologies: ['Java', 'Processing'],
+		description:
+			'Research project for CSCI 391, I explored the visualization of K-D Trees in Processing.',
+		url: 'https://github.com/ParzivalVulpine/KD-Trees'
 	}
 ];
 
