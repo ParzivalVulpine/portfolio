@@ -14,7 +14,7 @@
 			Hey there! I'm Daniel Gaitan, a passionate and award-winning game development student from Drury University. 
 			As I approach the end of my senior year, I'm thrilled to dive headfirst into the industry and make a meaningful 
 			impact. Throughout my studies, I've been laser-focused on creating captivating game systems and mechanics that 
-			truly engage players. What truly excites me is the power of collaboration—I thrive when working with teams, 
+			truly engage players. What truly excites me is the power of collaboration— I thrive when working with teams, 
 			pooling our talents to create something truly extraordinary.
 		</p>
 		<p>
@@ -45,6 +45,28 @@
 				</li>
 			</ul>
 		{/each}
+		<h2>Relevant Experience</h2>
+		<h3>Drury University - Computer Science Tutor</h3>
+		<p>
+			<ul>
+			<li>Provided individual and group tutoring to help students understand computer science concepts, programming languages, algorithms, and data structures.</li>
+			<li>Aided students with assignments, projects, and lab exercises, offering guidance on problem-solving techniques, debugging, and coding best practices.</li>
+			<li>Analyzed students' code submissions, identified errors, suggested improvements, and provided constructive feedback to enhance their programming skills.</li>
+			<li>Broke down complex computer science concepts into simpler terms, using effective teaching methods and resources to facilitate comprehension.</li>
+			</ul>
+		<h2>Education</h2>
+		<h3>Drury University 
+			<br/> Bachelor of Science in Software Engineering - Game Development</h3>
+		<p>
+			<ul>
+			<li>Drury's Indie Game Studio President 2023-2024</li>
+			<li>Math & Computer Science Club Vice-President 2023 - 2024</li>
+			<li>Relevant coursework: <ul>
+			<li>Data Structures</li>
+			<li>Application Development I & II</li>
+			<li>Foundations of Game Development</li>
+			<li>Advanced Game Development</li></ul>
+		</ul>
 	</main>
 </div>
 
